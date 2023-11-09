@@ -46,8 +46,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ss-test-BackEnd0/flutter](https://github.com/ss-test-BackEnd0/flutter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|3<br/>Contributors|11/07/23 <br/>Report generated|08/09/22<br/>Last commit date|
-|------|------|------|------|
+|20<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (8)
@@ -229,7 +229,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@types/node](http://definitelytyped.org/)|v13.13.2|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v13.13.2|04/23/20|Artur Wojciechowski |MIT|N/A|
 
 <br/>
 <div align='center'>
